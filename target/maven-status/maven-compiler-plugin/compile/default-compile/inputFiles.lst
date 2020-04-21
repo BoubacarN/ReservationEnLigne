@@ -1,0 +1,13 @@
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/data/repository/GuestRepository.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/data/entity/Room.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/LearningSpringApplication.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/data/entity/Guest.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/web/RoomReservationWebServiceController.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/web/GuestWebController.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/data/repository/ReservationRepository.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/business/service/ReservationService.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/data/repository/RoomRepository.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/business/domain/RoomReservation.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/web/DateUtils.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/web/RoomReservationWebController.java
+/home/user/Bureau/Workspace/Ex_Files_Learning_Spring_Spring_Boot/Exercise Files/Chapter5/05_02/05_02_end/learning-spring/src/main/java/com/frankmoley/lil/learningspring/data/entity/Reservation.java
